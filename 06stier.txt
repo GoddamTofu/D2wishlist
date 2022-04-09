@@ -64,8 +64,9 @@ dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,124408337
 
 // Perses-D - Perses-D (PvE)
 //notes: ( 06mywish.txt )  [YeezyGT's WQ] [MW: Stab / Handling / Reload] "Some stellar perks on this one with a pretty shallow perk pool. While 150RPMs are extremely unloved (as of S16) in the PvE sandbox, this is one that's probably worth holding onto for ranged engagements in future, buff pending." |tags:PvE
-dimwishlist:item=1019000888&perks=839105230,106909392,1428297954,1546637391,1607056502
-dimwishlist:item=1019000888&perks=839105230,106909392,247725512,1546637391,1607056502
+dimwishlist:item=1019000888&perks=839105230,106909392,1428297954,1546637391
+dimwishlist:item=1019000888&perks=839105230,106909392,247725512,1546637391
+dimwishlist:item=1019000888&perks=839105230,106909392,1583705720,124408337
 
 // Igneous Hammer - Igneous Hammer (PvP)
 //notes: ( 06mywish.txt ) Inspired by Destiny Massive Breakdowns Podcast 229. PvP backup roll. Recommended MW: Range/Stability with Icarus mod. |tags:PvP
