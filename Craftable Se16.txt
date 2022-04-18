@@ -220,17 +220,6 @@ Impulse Amplifier, Explosive Light
 Impulse Amplifier, Adrenaline Junkie
 Ambitious Assassin, xplosive Light
 
-Perses-D: [PvE] [Fluted Barrel] [Tactical Mag] [Rapid Hit] [Vorpal Weapon] [Reload] [PvE]
-Perses-D: [PvP] [Fluted Barrel] [Steady Rounds] [Perpetual Motion] [Opening Shot] [Stability] [PvP]
-Rapid Hit, Vorpal Weapon
-Rapid Hit, Explosive Payload
-Tunnel Vision, Explosive Payload
-Perpetual Motion, Explosive Payload
-Rapid Hit, Headstone
-Stats for All, Explosive Payload
-Shoot to Loot, Explosive Payload
-Stats for All, Headstone
-
 Piece of Mind: [PvE] [Arrowhead Brake] [Appended Mag] [Overflow] [Vorpal Weapon] [Reload ] [PvE]
 Piece of Mind: [PvP] [Arrowhead Brake] [High-Caliber Rounds] [Perpetual Motion] [Moving Target] [Stability ] [PvP]
 Compulsive Reloader, Focused Fury
