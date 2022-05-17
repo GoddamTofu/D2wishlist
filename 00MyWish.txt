@@ -1,5 +1,5 @@
-title:My wishlist and Stier list
-description:My wishlist and Stier list
+title:My Wishlist and First Choice
+description:My Wishlist and First Choice
 
 // A Fine Memorial
 //notes: ( 00mywish.txt ) |tags:PvE
@@ -22,10 +22,6 @@ dimwishlist:item=1621657423&perks=3768438372,3429800428,3436462433,3365897133
 //notes: ( 00mywish.txt ) |tags:PvP,PvE
 dimwishlist:item=1046651176&perks=3250034553,3142289711,1820235745,3038247973
 
-// BxR-55 Battler - BxR-55 Battler (PvP)
-//notes: ( 00mywish.txt ) Inspired by Destiny Massive Breakdowns from Podcast 240. PvP backup roll. Intrinsic hipfiring frame perk gives great flexibility, even if the TTK isn't S-Tier (as at the 30th Anniversary sandbox). Recommended MW: Stability or Range with Hip-Fire Grip mod or Icarus Grip mod depending on play style. |tags:PvP
-dimwishlist:item=2708806099&perks=1482024992,3230963543,2450788523,454085387
-
 // Dead Man's Tale (PvP,PvE)
 //notes: ( 00mywish.txt ) |tags:PvP,PvE
 dimwishlist:item=3654674561&perks=1482024992,1482024992,1561002382,1546637391,1067908860
@@ -42,35 +38,19 @@ dimwishlist:item=1723380073&perks=445755706,1561002382,4267945040,247725512
 //notes: ( 00mywish.txt ) |tags:PvP
 dimwishlist:item=679281855&perks=202670084,1687452232,2450788523,1754714824
 
-// Fatebringer (PvP)
-//notes: ( 00mywish.txt ) Inspired by Destiny Massive Breakdowns from Podcast 234. PvE backup roll for Match Game activities. Recommended MW: Stability. |tags:PvP
-dimwishlist:item=2171478765&perks=1840239774,3142289711,1774574192,4104185692
-
 // Hoosegow
 //notes: ( 00mywish.txt ) |tags:PvE,PvP
 dimwishlist:item=3669616453&perks=1478423395,2985827016,3977735242,1275731761
 
-// Krait - Krait (PvE,controller)
-//notes: ( 00mywish.txt ) Wish List Notes:  [YeezyGT's WQ] [MW: Range / Stability] "Krait is pretty nuts. Overflow or Subsistence combo'd with the Veist Stinger origin allows you to shoot for... a very long time. Extended Mag makes it even crazier. One-for-All makes 720RPMs a little more usable in higher-end content, but in general, I'd label this as a fun gun for mid-to-low-level engagements." |tags:PvE
-dimwishlist:item=2852052802&perks=4090651448,3230963543,1820235745,1546637391,3988215619
-
 // Palmyra-B
 //notes: ( 00mywish.txt ) |tags:PvE
 dimwishlist:item=3489657138&perks=1478423395,2822142346,3300816228,3194351027
-
-// Peacebond - Peacebond (PvP)
-//notes: ( 00mywish.txt ) Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Stability with Icarus Grip mod. |tags:PvP
-dimwishlist:item=829330711&perks=1840239774,3142289711,972757866,124408337
 
 // Perses-D - Perses-D (PvE)
 //notes: ( 00mywish.txt )  [YeezyGT's WQ] [MW: Stab / Handling / Reload] "Some stellar perks on this one with a pretty shallow perk pool. While 150RPMs are extremely unloved (as of S16) in the PvE sandbox, this is one that's probably worth holding onto for ranged engagements in future, buff pending." |tags:PvE
 dimwishlist:item=1019000888&perks=839105230,106909392,1428297954,1546637391
 dimwishlist:item=1019000888&perks=839105230,106909392,247725512,1546637391
 dimwishlist:item=1019000888&perks=839105230,106909392,1583705720,124408337
-
-// Igneous Hammer - Igneous Hammer (PvP)
-//notes: ( 00mywish.txt ) Inspired by Destiny Massive Breakdowns Podcast 229. PvP backup roll. Recommended MW: Range/Stability with Icarus mod. |tags:PvP
-dimwishlist:item=2351180975&perks=1482024992,679225683,2450788523,588594999
 
 // Jurassic Green - Jurassic Green (PvP)
 //notes: ( 00mywish.txt ) File auto generated from csv pandapaxxy-s15-roundup |tags:PvP
