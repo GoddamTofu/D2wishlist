@@ -1,0 +1,388 @@
+title:Season 12 (Season of the Hunt) Iron Banner weapons
+description:Season 12 Iron Banner weapons
+
+// The Guiding Light
+dimwishlist:item=1641430382
+
+
+title:Season 13 (Season of the Chosen) Lunar weapons
+description:Reprised Alters of Sorrow and Pit of Herecy drops
+
+// Apostate
+dimwishlist:item=2164448701
+
+// Blasphemer
+dimwishlist:item=2782847179
+
+// Heretic
+dimwishlist:item=3067821200
+
+// Premonition
+dimwishlist:item=208088207
+
+title:Season 13 (Season of the Chosen) Dreaming City weapons
+description:Reprised Dreaming City world drops (some perks only drop in Shattered Throne dungeon)
+
+// Retold Tale
+dimwishlist:item=346136302
+
+// Sleepless
+dimwishlist:item=3740842661
+
+// Vouchsafe
+dimwishlist:item=3242168339
+
+// Waking Vigil
+dimwishlist:item=334171687
+
+title:Season 13 (Season of the Chosen) World weapon droos
+description:Reprised drops in the world pool
+
+// Eternal Blazon
+dimwishlist:item=3514096004
+
+// Retrofuturist
+dimwishlist:item=1402766122
+
+// Tarantula
+dimwishlist:item=3335343363
+
+title:Season 13 (Season of the Chosen) Activity weapons
+description:Post-game drops from Crucible, Gambit and Vanguard matches
+
+// Frozen Orbit
+dimwishlist:item=3473290087
+
+// The Keening
+dimwishlist:item=409551876
+
+title:Season 14 (Season of the Chosen) Iron Banner rolls
+description:New Eliksni-themed and reprised Iron Banner weapons
+
+// Archon's Thunder
+dimwishlist:item=1967303408
+
+// Finite Impactor
+dimwishlist:item=3813153080
+
+// Occluded Finality
+dimwishlist:item=852551895
+
+// Riiswalker
+dimwishlist:item=108221785
+
+title:Season 14 (Season of the Chosen) Activity weapons
+description:Post-game drops from Crucible, Gambit and Vanguard matches
+
+// Borrowed Time
+dimwishlist:item=875848769
+
+// Empty Vessel
+dimwishlist:item=4255586669
+
+// Survivor's Epitaph
+dimwishlist:item=310708513
+
+title:Season 14 (Season of the Chosen) Nightfall weapons
+description:Post-game drops from Nightfalls
+
+// Hung Jury SR4
+dimwishlist:item=4281371574
+
+// Hung Jury (Adept)
+dimwishlist:item=681067419
+
+// PLUG ONE.1
+dimwishlist:item=1289000550
+
+// PLUG ONE.1 (Adept)
+dimwishlist:item=534775659
+
+// Uzume RR4
+dimwishlist:item=2065081837
+
+// Uzume RR4 (Adept)
+dimwishlist:item=852228780
+
+title:Season 14 (Season of the Chosen) Future War Cult weapons
+description:Reprised FWC weapons from Umbral decryptions and in-World drops
+
+// Memory Interdict
+dimwishlist:item=3165547384
+
+// Pleiades Corrector
+dimwishlist:item=3556999246
+
+// Stochastic Variable
+dimwishlist:item=2272470786
+
+// The Deicide
+dimwishlist:item=217140611
+
+// The Number
+dimwishlist:item=2492081469
+
+// The Vision
+dimwishlist:item=2414141462
+
+title:Season 14 (Season of the Chosen) Class swords
+description:Reprised Titan, Warlock and Hunter swords
+
+// Crown-Splitter
+dimwishlist:item=2782325302
+
+// Eternity's Edge
+dimwishlist:item=2782325301
+
+// Quickfang
+dimwishlist:item=2782325300
+
+title:Season 15 (Season of the Lost) Nightfall weapons
+description:Reprised weapons dropping post-game
+
+// The Comedian
+dimwishlist:item=1028582252
+
+// The Comedian (Adept)
+dimwishlist:item=2443900757
+
+// The Hothead
+dimwishlist:item=4255171531
+
+// The Hothead (Adept)
+dimwishlist:item=1866778462
+
+title:Season 15 (Season of the Lost) World weapons
+description:Reprised weapons dropping from world engrams
+
+// Scathelocke
+dimwishlist:item=602618796
+
+// Sorrow's Verse
+dimwishlist:item=2496875173
+
+title:Season 15 (Season of the Lost) 30th Anniversary weapons
+description:Xûr's Treasure Hoard, Starhorse and Dares of Eternity drops
+
+// Pardon Our Dust
+dimwishlist:item=3849810018
+
+// Half-Truths
+dimwishlist:item=3257091166
+
+// The Other Half
+dimwishlist:item=3257091167
+
+title:Season 15 (Season of the Lost) Grasp of Avarice dungeon weapons
+description:Reprised D1 weapons from the 30th Anniversary dungeon
+
+// Eyasluna
+dimwishlist:item=235827225
+
+// Matador 64
+dimwishlist:item=235827225
+
+// 1000 Yard Stare
+dimwishlist:item=2563012876
+
+// Hero of Ages
+dimwishlist:item=2139640995
+
+// Empirical Evidence - shapeable
+dimwishlist:item=2607304614
+
+// The Enigma - shapeable
+dimwishlist:item=2595497736
+
+// Red Herring Rocket Launcher - shapeable
+dimwishlist:item=3175851496
+
+
+// Season 16 The Wellspring - Witch Queen DLC six-man activity - weapons
+
+// Fel Taradiddle - shapeable
+//notes:Bor’gong, Warden of the Spring
+dimwishlist:item=1810346708
+
+// Come to Pass  - shapeable
+//notes:Golmag, Warden of the Spring
+dimwishlist:item=2855733397
+
+// Father's Sins - shapeable 
+//notes:Zeerik, Lightflayer
+dimwishlist:item=3866185975
+
+// Tarnation - shapeable
+//notes:Vezuul, Lightflayer
+dimwishlist:item=3311856850
+
+// Season 16 Nightfall weapons
+
+// Duty Bound
+dimwishlist:item=43521611
+
+// Duty Bound (Adept)
+dimwishlist:item=1457979868
+
+// Silicon Neuroma
+dimwishlist:item=3355385170
+
+// Silicon Neuroma (Adept)
+dimwishlist:item=3020227688
+
+
+// Season 16 Gambit playlist weapon
+
+// Herod-C
+dimwishlist:item=1788603939
+
+
+// Season 16 Vanguard playlist weapon
+
+// Fortissimo-11
+dimwishlist:item=2821430069
+
+
+// Season 16 Crucible playlist weapon
+
+// Crisis Inverted
+dimwishlist:item=2888266564
+
+// Season 16 Ritual Weapon: from grinding ranks with Zavala (Vanguard Ops), The Drifter (Gambit), or Shaxx (Crucible).
+
+// Reckless Endangerment
+dimwishlist:item=3216652511
+
+
+// Season 16 From completing the Chief Investigator Triumph and then world drops
+
+// Forensic Nightmare - shapeable
+dimwishlist:item=1526296434
+
+
+// Season 16 Unlocked through season pass progression, and then world drops
+
+// Thoughtless - shapeable
+dimwishlist:item=4067556514
+
+// Piece of Mind - shapeable
+dimwishlist:item=4195995171
+
+
+// Season 16 Dropping from Savathun's Throne World engrams
+
+// Likely Suspect - shapeable
+imwishlist:item=2956183123
+
+// Pointed Inquiry - shapeable
+dimwishlist:item=4117085525
+
+// Season 16 Trials of Osiris weapon
+
+// Aisha's Embrace 
+dimwishlist:item=2638190703
+
+// Aisha's Embrace (Adept)
+dimwishlist:item=3245493570
+
+// The Summoner
+dimwishlist:item=1907698332
+
+// The Summoner (Adept)
+dimwishlist:item=3927598940
+
+
+// Season 16 Iron Banner weapons
+
+// Frontier's Cry
+dimwishlist:item=1141547457
+
+// Razor's Edge
+dimwishlist:item=1796949035
+
+
+// Season 16 PsiOps Battlegrounds  Seasonal Activity - weapons
+
+// Sweet Sorrow - shapeable
+dimwishlist:item=2587734818
+
+// Under Your Skin - shapeable
+dimwishlist:item=3517716296
+
+// Explosive Personality - shapeable
+dimwishlist:item=4096943616
+
+// Recurrent Impact - shapeable
+dimwishlist:item=3637823400
+
+
+// Season 16 Vow of the Disciple raid weapons
+
+// Insidious - shapeable
+dimwishlist:item=3792798197
+
+// Insidious (Adept) - shapeable
+dimwishlist:item=2890628955
+
+// Submission - shapeable
+dimwishlist:item=3886416794
+
+// Submission (Adept) - shapeable
+dimwishlist:item=2031579744
+
+// Deliverance - shapeable
+dimwishlist:item=2139190869
+
+// Deliverance (Adept) - shapeable
+dimwishlist:item=2943293195
+
+// Forebearance - shapeable
+dimwishlist:item=4199933901
+
+// Forebearance (Adept) - shapeable
+dimwishlist:item=4038592169
+
+// Cataclysmic - shapeable
+dimwishlist:item=2933132219
+
+// Cataclysmic (Adept) - shapeable
+dimwishlist:item=2886339027
+
+
+// Season 16  Drop from engrams regardless of source.
+
+// Krait
+dimwishlist:item=2852052802
+
+// Syncopation-53 - shapeable
+dimwishlist:item=2852052802
+
+// Perses-D - shapeable
+dimwishlist:item=2852052802
+
+// Funnelweb
+dimwishlist:item=3341893443
+
+// Redback-5si
+dimwishlist:item=1687353095
+
+// Cantata-57
+dimwishlist:item=372697604
+
+// Ogma PR6
+dimwishlist:item=2342054803
+
+// Ragnhild-D - shapeable
+dimwishlist:item=4225322581
+
+// Snorri FR5
+dimwishlist:item=4114929480
+
+// Fugue-55
+dimwishlist:item=2233545123
+
+// Typhon GL5
+dimwishlist:item=2233545123
+
+// Palmyra-B - shapeable
+dimwishlist:item=2233545123
