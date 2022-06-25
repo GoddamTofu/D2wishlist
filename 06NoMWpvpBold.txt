@@ -108,6 +108,11 @@ dimwishlist:item=1697682876&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=532746994&perks=1047830412,3142289711,3436462433,47981717
 
 
+// Austringer
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Kinetic Hand Cannon Primary Ammo) |tags:Controller PvP
+dimwishlist:item=3055790362&perks=1840239774,1885400500,699525795,2846385770
+
+
 // Avalanche
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Solar Machine Guns 3Heavy Ammo)|tags:Controller PvP
 dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124
@@ -117,6 +122,11 @@ dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Blast Radius Sandbox 3.4.1.1 (Void Rocket Launchers 3Heavy Ammo)|tags:Controller PvP
 dimwishlist:item=991314988&perks=332773068,1996142143,3977735242,706527188
 dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,706527188
+
+
+// Beloved
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Handling Season 17 (Solar Sniper Rifles Special Ammo) |tags:Controller PvP
+dimwishlist:item=3107853529&perks=1840239774,1561002382,957782887,706527188
 
 
 // Bequest
@@ -176,9 +186,30 @@ dimwishlist:item=2121785039&perks=1840239774,1561002382,247725512,3425386926
 dimwishlist:item=528834068&perks=1840239774,1885400500,1359896290,1890422124
 
 
+// Bump in the Night
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Blast Radius Season 17 (Stasis Rocket Launcher  Heavy Ammo) |tags:Controller PvP
+dimwishlist:item=1959650777&perks=332773068,1996142143,3523296417,2396489472
+dimwishlist:item=1959650777&perks=1478423395,1996142143,3523296417,2396489472
+
+
+// Burden of Guilt
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Kinetic Fusion Rifle  Special Ammo) |tags:Controller PvP
+dimwishlist:item=933455006&perks=839105230,3868766766,3511092054,2213355989
+
+
+// Burden of Guilt (Adept)
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Kinetic Fusion Rifle  Special Ammo) |tags:Controller PvP
+dimwishlist:item=2002522739&perks=839105230,3868766766,3511092054,2213355989
+
+
 // BxR-55 Battler
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Solar Pulse Rifles 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=2708806099&perks=839105230,1885400500,957782887,2846385770
+
+
+// CALUS Mini-Tool
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range Season 17 (Solar Submachine Gun  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=2490988246&perks=1840239774,3142289711,4071163871,699525795
 
 
 // Canis Major
@@ -205,6 +236,11 @@ dimwishlist:item=999767358&perks=1840239774,689005463,2652708987,2213355989
 // Cataclysmic (Adept)
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Charge Time  Sandbox 3.4.1.1 (Solar Linear Fusion Rifles 3Heavy Ammo)|tags:Controller PvP
 dimwishlist:item=2886339027&perks=1840239774,689005463,2652708987,2213355989
+
+
+// Chain of Command
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range Season 17 (Stasis Machine Gun  Heavy Ammo) |tags:Controller PvP
+dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417
 
 
 // Chattering Bone
@@ -299,9 +335,24 @@ dimwishlist:item=3565520715&perks=1478423395,409831596,2450788523,706527188
 dimwishlist:item=2782325302&perks=3666208348,2349202967,2590710093,1546637391
 
 
+// D.F.A.
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Kinetic Hand Cannon Primary Ammo) |tags:Controller PvP
+dimwishlist:item=575830664&perks=1840239774,3142289711,1428297954,47981717
+
+
+// D.F.A. (Adept)
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Kinetic Hand Cannon Primary Ammo) |tags:Controller PvP
+dimwishlist:item=2006308129&perks=1840239774,3142289711,1428297954,47981717
+
+
 // Darkest Before
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Arc Pulse Rifles 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,3511092054
+
+
+// Dead Weight
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Handling Season 17 (Arc Shotgun  Special Ammo) |tags:Controller PvP
+dimwishlist:item=3738678140&perks=1047830412,3142289711,1428297954,3523296417
 
 
 // Deafening Whisper
@@ -340,6 +391,11 @@ dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,957782887
 dimwishlist:item=2362471600&perks=1482024992,3142289711,3425386926,588594999
 
 
+// Drang (Baroque)
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range Season 17 (Solar Sidearm  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=502356570&perks=3250034553,3142289711,588594999,4082225868
+
+
 // Dream Breaker
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Solar Fusion Rifles 2Special Ammo)|tags:Controller PvP
 dimwishlist:item=2931957300&perks=1840239774,689005463,280464955,699525795
@@ -369,6 +425,11 @@ dimwishlist:item=4255586669&perks=1478423395,409831596,3300816228,3523296417
 // Enigma's Draw
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Kinetic Sidearms 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=1723380073&perks=445755707,1561002382,47981717,2846385770
+
+
+// Enyo-D
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range Season 17 (Kinetic Submachine Gun  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=1601177201&perks=1840239774,3142289711,509074078,2458213969
 
 
 // Escape Velocity
@@ -477,9 +538,19 @@ dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=3813153080&perks=1926090095,1885400500,280464955,11551321
 
 
+// Firefright
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range Season 17 (Kinetic Auto Rifle  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=2778013407&perks=839105230,1561002382,4071163871,3511092054
+
+
 // First In, Last Out
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range or Handling Sandbox 3.4.1.1 (Arc Shotguns 2Special Ammo)|tags:Controller PvP
 dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717
+
+
+// Fixed Odds
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Solar Machine Gun  Heavy Ammo) |tags:Controller PvP
+dimwishlist:item=2194955522&perks=839105230,3142289711,1645158859,2846385770
 
 
 // Forbearance
@@ -500,6 +571,16 @@ dimwishlist:item=1526296434&perks=3250034553,1561002382,1428297954,1015611457
 // Forges Pledge
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Solar Pulse Rifles 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=1076810832&perks=839105230,3142289711,1570042021,3425386926
+
+
+// Forgiveness
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Arc Sidearm  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=2345794502&perks=1840239774,1561002382,3523296417,2458213969
+
+
+// Forgiveness (Adept)
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Arc Sidearm  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=2405619467&perks=1840239774,1561002382,3523296417,2458213969
 
 
 // Fortissimo-11
@@ -545,6 +626,11 @@ dimwishlist:item=2233545123&perks=1840239774,3142289711,509074078,957782887
 // Funnelweb
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability  Sandbox 3.4.1.1 (Void Submachine Guns 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=3341893443&perks=1840239774,3142289711,2450788523,2846385770
+
+
+// Gallu RR3
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Handling Season 17 (Arc Sniper Rifles Primary Ammo) |tags:Controller PvP
+dimwishlist:item=617501162&perks=1840239774,3142289711,509074078,957782887
 
 
 // Glacioclasm
@@ -610,6 +696,11 @@ dimwishlist:item=1921159786&perks=1478423395,1996142143,951095735,3523296417
 dimwishlist:item=1197486957&perks=1840239774,3142289711,2450788523,957782887
 
 
+// Hollow Denial
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range Season 17 (Void Trace Rifle  Special Ammo) |tags:Controller PvP
+dimwishlist:item=2323544076&perks=3250034553,2969185026,2846385770,4082225868
+
+
 // Hollow Words
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Arc Fusion Rifles 2Special Ammo)|tags:Controller PvP
 dimwishlist:item=607191995&perks=1840239774,689005463,1645158859,1683379515
@@ -630,6 +721,16 @@ dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,706527188
 // Horror Story
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Kinetic Auto Rifles 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,588594999
+
+
+// Horror's Least
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Arc Pulse Rifle Primary Ammo) |tags:Controller PvP
+dimwishlist:item=216983039&perks=839105230,3142289711,1428297954,1015611457
+
+
+// Horror's Least (Adept)
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Arc Pulse Rifle Primary Ammo) |tags:Controller PvP
+dimwishlist:item=1924276978&perks=839105230,3142289711,1428297954,1015611457
 
 
 // Hung Jury SR4
@@ -739,6 +840,11 @@ dimwishlist:item=3409645497&perks=839105230,3177308360,588594999,3425386926
 dimwishlist:item=1994645182&perks=839105230,689005463,280464955,2652708987
 
 
+// Lingering Dread
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Velocity Season 17 (Stasis Grenade Launcher  Special Ammo) |tags:Controller PvP
+dimwishlist:item=2026087437&perks=3525010810,409831596,3300816228,3523296417
+
+
 // Lonesome
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Kinetic Sidearms 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=2199171672&perks=1840239774,1561002382,247725512,1015611457
@@ -768,6 +874,11 @@ dimwishlist:item=2534546147&perks=1263609309,3721627275,2450788523,4082225868
 // Lubrae's Ruin (Adept)
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Handling  Sandbox 3.4.1.1 (Solar Glaive 2Special Ammo)|tags:Controller PvP
 dimwishlist:item=1466006054&perks=1263609309,3721627275,2450788523,4082225868
+
+
+// Lunulata-4b
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Draw Time Season 17 (Stasis Combat Bow Primary Ammo) |tags:Controller PvP
+dimwishlist:item=2513965917&perks=852209214,3429800428,2846385770,2652708987
 
 
 // Main Ingredient
@@ -809,6 +920,16 @@ dimwishlist:item=1835747805&perks=1926090095,3142289711,706527188,2846385770
 // Negative Space
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Impact Sandbox 3.4.1.1 (Solar Swords 3Heavy Ammo)|tags:Controller PvP
 dimwishlist:item=3629968765&perks=3666208348,269888150,2590710093,3016987351
+
+
+// New Purpose
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Stasis Pulse Rifle Primary Ammo) |tags:Controller PvP
+dimwishlist:item=1780464822&perks=839105230,1561002382,1428297954,3047969693
+
+
+// Nezarec's Whisper
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Handling Season 17 (Arc Glaive  Special Ammo) |tags:Controller PvP
+dimwishlist:item=254636484&perks=1934171651,3721627275,951095735,11612903
 
 
 // Night Terror
@@ -1013,6 +1134,11 @@ dimwishlist:item=1402766122&perks=1047830412,791862061,706527188,957782887
 dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
 
 
+// Riptide
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Stasis Fusion Rifle  Special Ammo) |tags:Controller PvP
+dimwishlist:item=2715240478&perks=839105230,689005463,1428297954,2652708987
+
+
 // Royal Chase
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Void Scout Rifles 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=2776503072&perks=839105230,3142289711,2866798147,4071163871
@@ -1156,6 +1282,11 @@ dimwishlist:item=2496875173&perks=1840239774,3142289711,1890422124,2458213969
 dimwishlist:item=2588048270&perks=445755707,1885400500,2450788523,3523296417
 
 
+// Staccato-46
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Solar Scout Rifle  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=4019668921&perks=839105230,3177308360,744594675,3038247973
+
+
 // Stars in Shadow
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Solar Pulse Rifles 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=2050789284&perks=839105230,3142289711,280464955,1015611457
@@ -1169,6 +1300,16 @@ dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,354401740
 // Stochastic Variable
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Arc Submachine Guns 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=2272470786&perks=1840239774,1885400500,2450788523,2458213969
+
+
+// Stormchaser
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Charge Time Season 17 (Arc Linear Fusion Rifle Heavy Ammo) |tags:Controller PvP
+dimwishlist:item=3652506829&perks=1840239774,689005463,2846385770,3523296417
+
+
+// Strident Whistle
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Accuracy, Draw Time Season 17 (Solar Combat Bow Primary Ammo) |tags:Controller PvP
+dimwishlist:item=2591241074&perks=2801223209,3429800428,201365942,3365897133
 
 
 // Submission
@@ -1229,6 +1370,11 @@ dimwishlist:item=2721157927&perks=332773068,409831596,2450788523,2396489472
 dimwishlist:item=2721157927&perks=1478423395,409831596,2450788523,2396489472
 
 
+// Tears of Contrition
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Kinetic Scout Rifle  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=1366394399&perks=839105230,3177308360,2866798147,3038247973
+
+
 // Techeun Force
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Arc Fusion Rifles 2Special Ammo)|tags:Controller PvP
 dimwishlist:item=4094657108&perks=1840239774,689005463,1645158859,2213355989
@@ -1259,6 +1405,11 @@ dimwishlist:item=217140611&perks=1047830412,3142289711,3436462433,3511092054
 dimwishlist:item=2595497736&perks=1263609309,3721627275,951095735,1015611457
 
 
+// The Epicurean
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (VoidFusion Rifle  Special Ammo) |tags:Controller PvP
+dimwishlist:item=2263839058&perks=839105230,689005463,3436462433,2846385770
+
+
 // The Fool's Remedy
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Solar Sidearms 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=65611680&perks=445755707,1885400500,588594999,1015611457
@@ -1272,6 +1423,11 @@ dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,1890422124
 // The Guiding Sight
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Sandbox 3.4.1.1 (Kinetic Scout Rifles 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,11551321
+
+
+// The Hero's Burden
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range Season 17 (Void Submachine Gun  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=2488587246&perks=3250034553,1561002382,2779035018,1015611457
 
 
 // The Hothead
@@ -1375,6 +1531,10 @@ dimwishlist:item=47772649&perks=1840239774,3142289711,1359896290,1890422124
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Arc Machine Guns 3Heavy Ammo)|tags:Controller PvP
 dimwishlist:item=3836861464&perks=1840239774,3142289711,1359896290,1890422124
 
+// The Title
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Range Sandbox 3.4.1.1 (Void Submachine Guns Primary Ammo)|tags:Controller PvP
+dimwishlist:item=294129361&perks=839105230,1885400500,1359896290,588594999
+
 
 // The Third Axiom
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Arc Pulse Rifles 1Primary Ammo)|tags:Controller PvP
@@ -1389,6 +1549,11 @@ dimwishlist:item=3593598010&perks=2405638014,1885400500,588594999,11551321
 // The Vision
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Arc Sidearms 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=2414141462&perks=445755707,3142289711,3436462433,1015611457
+
+
+// The Wizened Rebuke
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Arc Fusion Rifle  Special Ammo) |tags:Controller PvP
+dimwishlist:item=1999697514&perks=839105230,689005463,1645158859,2652708987
 
 
 // Thermal Erosion
@@ -1487,6 +1652,11 @@ dimwishlist:item=2721249463&perks=2801223209,3429800428,588594999,957782887
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,47981717
 
 
+// Unforgiven
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Void Submachine Gun  Primary Ammo) |tags:Controller PvP
+dimwishlist:item=3000847393&perks=3661387068,1885400500,3523296417,11612903
+
+
 // Uzume RR4
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Handling or Range Sandbox 3.4.1.1 (Solar Sniper Rifles 2Special Ammo)|tags:Controller PvP
 dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,3038247973
@@ -1540,6 +1710,11 @@ dimwishlist:item=1271343896&perks=1840239774,3142289711,280464955,706527188
 // Wishbringer
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Handling or Range Sandbox 3.4.1.1 (Solar Shotguns 2Special Ammo)|tags:Controller PvP
 dimwishlist:item=3190698551&perks=1047830412,3142289711,4071163871,47981717
+
+
+// Without Remorse
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Range Season 17 (Solar Shotgun  Special Ammo) |tags:Controller PvP
+dimwishlist:item=1478986057&perks=1047830412,3142289711,4071163871,3511092054
 
 
 // Wolftone Draw
