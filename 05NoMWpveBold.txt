@@ -2,7 +2,7 @@
 
 description:Based on u/pandapaxxy's Google Sheets Bold Perks
 
-/ 1000 Yard Stare
+// 1000 Yard Stare
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Void Sniper Rifles 2Special Ammo)|tags:Controller PvE
 dimwishlist:item=4164201232&perks=839105230,106909392,3400784728,3523296417
 
@@ -111,6 +111,12 @@ dimwishlist:item=532746994&perks=1300023272,106909392,3300816228,806159697
 dimwishlist:item=532746994&perks=1300023272,106909392,3300816228,2360754333
 
 
+// Austringer
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Kinetic Hand Cannon Primary Ammo) |tags:Controller PvE
+dimwishlist:item=3055790362&perks=1840239774,679225683,1168162263,3425386926
+dimwishlist:item=3055790362&perks=1840239774,679225683,3124871000,3425386926
+
+
 // Avalanche
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Solar Machine Guns 3Heavy Ammo)|tags:Controller PvE
 dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,1546637391
@@ -119,6 +125,11 @@ dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,1546637391
 // Bad Omens
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Void Rocket Launchers 3Heavy Ammo)|tags:Controller PvE
 dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,1275731761
+
+
+// Beloved
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Solar Sniper Rifles Special Ammo) |tags:Controller PvE
+dimwishlist:item=3107853529&perks=1840239774,679225683,1354429876,2551157718
 
 
 // Bequest
@@ -177,10 +188,30 @@ dimwishlist:item=2121785039&perks=1840239774,1968497646,247725512,4104185692
 dimwishlist:item=528834068&perks=1840239774,1968497646,1354429876,1546637391
 
 
+// Bump in the Night
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Stasis Rocket Launcher  Heavy Ammo) |tags:Controller PvE
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,4104185692
+
+
+// Burden of Guilt
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Kinetic Fusion Rifle  Special Ammo) |tags:Controller PvE
+dimwishlist:item=933455006&perks=839105230,689005463,1428297954,1546637391
+
+
+// Burden of Guilt (Adept)
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Kinetic Fusion Rifle  Special Ammo) |tags:Controller PvE
+dimwishlist:item=2002522739&perks=839105230,689005463,1428297954,1546637391
+
+
 // BxR-55 Battler
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Solar Pulse Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=2708806099&perks=839105230,3230963543,1168162263,1015611457
 dimwishlist:item=2708806099&perks=839105230,3230963543,3124871000,1015611457
+
+
+// CALUS Mini-Tool
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Solar Submachine Gun  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=2490988246&perks=1840239774,106909392,3108830275,2779035018
 
 
 // Canis Major
@@ -206,6 +237,11 @@ dimwishlist:item=999767358&perks=839105230,689005463,1354429876,2213355989
 // Cataclysmic (Adept)
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload or Charge Time  Sandbox 3.4.1.1 (Solar Linear Fusion Rifles 3Heavy Ammo)|tags:Controller PvE
 dimwishlist:item=2886339027&perks=839105230,689005463,1354429876,2213355989
+
+
+// Chain of Command
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Range Season 17 (Stasis Machine Gun  Heavy Ammo) |tags:Controller PvE
+dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417
 
 
 // Chattering Bone
@@ -303,9 +339,26 @@ dimwishlist:item=3565520715&perks=3525010810,3301904089,2869569095,2396489472
 dimwishlist:item=2782325302&perks=3666208348,2349202967,2590710093,1546637391
 
 
+// D.F.A.
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Kinetic Hand Cannon Primary Ammo) |tags:Controller PvE
+dimwishlist:item=575830664&perks=1840239774,106909392,1168162263,3425386926
+dimwishlist:item=575830664&perks=1840239774,106909392,3124871000,3425386926
+
+
+// D.F.A. (Adept)
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Kinetic Hand Cannon Primary Ammo) |tags:Controller PvE
+dimwishlist:item=2006308129&perks=1840239774,106909392,1168162263,3425386926
+dimwishlist:item=2006308129&perks=1840239774,106909392,3124871000,3425386926
+
+
 // Darkest Before
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Arc Pulse Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=2481758391&perks=839105230,1968497646,3643424744,3425386926
+
+
+// Dead Weight
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Shotgun  Special Ammo) |tags:Controller PvE
+dimwishlist:item=3738678140&perks=1300023272,106909392,1631667848,2679249093
 
 
 // Deafening Whisper
@@ -343,6 +396,11 @@ dimwishlist:item=2807687156&perks=839105230,106909392,2284787283,1771339417
 dimwishlist:item=2362471600&perks=1482024992,3142289711,3425386926,588594999
 
 
+// Drang (Baroque)
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Solar Sidearm  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=502356570&perks=1840239774,106909392,744594675,3425386926
+
+
 // Dream Breaker
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Solar Fusion Rifles 2Special Ammo)|tags:Controller PvE
 dimwishlist:item=2931957300&perks=839105230,1687452232,1556840489,4104185692
@@ -371,6 +429,11 @@ dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391
 // Enigma's Draw
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Kinetic Sidearms 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=1723380073&perks=445755707,1968497646,3400784728,4082225868
+
+
+// Enyo-D
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Kinetic Submachine Gun  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=1601177201&perks=1840239774,106909392,2779035018,3708227201
 
 
 // Escape Velocity
@@ -478,9 +541,19 @@ dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,1546637391
 dimwishlist:item=3813153080&perks=1926090094,1968497646,2039302152,2458213969
 
 
+// Firefright
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Kinetic Auto Rifle  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=2778013407&perks=839105230,1968497646,1354429876,2896038713
+
+
 // First In, Last Out
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Arc Shotguns 2Special Ammo)|tags:Controller PvE
 dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,1546637391
+
+
+// Fixed Odds
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Solar Machine Gun  Heavy Ammo) |tags:Controller PvE
+dimwishlist:item=2194955522&perks=839105230,106909392,2779035018,2782457288
 
 
 // Forbearance
@@ -501,6 +574,16 @@ dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,1015611457
 // Forges Pledge
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Solar Pulse Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=1076810832&perks=839105230,106909392,1570042021,3425386926
+
+
+// Forgiveness
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Sidearm  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=2345794502&perks=1840239774,1087426260,1820235745,1546637391
+
+
+// Forgiveness (Adept)
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Sidearm  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=2405619467&perks=1840239774,1087426260,1820235745,1546637391
 
 
 // Fortissimo-11
@@ -547,6 +630,11 @@ dimwishlist:item=2233545123&perks=1840239774,106909392,1354429876,1771339417
 // Funnelweb
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload  Sandbox 3.4.1.1 (Void Submachine Guns 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=3341893443&perks=1840239774,106909392,1428297954,11612903
+
+
+// Gallu RR3
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Sniper Rifles Primary Ammo) |tags:Controller PvE
+dimwishlist:item=617501162&perks=1840239774,106909392,3643424744,2896038713
 
 
 // Glacioclasm
@@ -610,6 +698,11 @@ dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391
 dimwishlist:item=1197486957&perks=1840239774,106909392,2010801679,3523296417
 
 
+// Hollow Denial
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Void Trace Rifle  Special Ammo) |tags:Controller PvE
+dimwishlist:item=2323544076&perks=1840239774,732557052,1048183818,2782457288
+
+
 // Hollow Words
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Arc Fusion Rifles 2Special Ammo)|tags:Controller PvE
 dimwishlist:item=607191995&perks=839105230,1687452232,2779035018,1546637391
@@ -628,6 +721,16 @@ dimwishlist:item=3669616453&perks=3525010810,3796465595,3300816228,3523296417
 // Horror Story
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Kinetic Auto Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=3829285960&perks=13792278,106909392,1820235745,3523296417
+
+
+// Horror's Least
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Pulse Rifle Primary Ammo) |tags:Controller PvE
+dimwishlist:item=216983039&perks=839105230,106909392,1428297954,1546637391
+
+
+// Horror's Least (Adept)
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Pulse Rifle Primary Ammo) |tags:Controller PvE
+dimwishlist:item=1924276978&perks=839105230,106909392,1428297954,1546637391
 
 
 // Hung Jury SR4
@@ -737,6 +840,11 @@ dimwishlist:item=3409645497&perks=839105230,106909392,2779035018,4104185692
 dimwishlist:item=1994645182&perks=839105230,689005463,1428297954,4049631843
 
 
+// Lingering Dread
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Stasis Grenade Launcher  Special Ammo) |tags:Controller PvE
+dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,2978966579
+
+
 // Lonesome
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Kinetic Sidearms 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=2199171672&perks=1840239774,1968497646,247725512,1015611457
@@ -765,6 +873,11 @@ dimwishlist:item=2534546147&perks=2713678205,3721627275,1631667848,1546637391
 // Lubrae's Ruin (Adept)
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload  Sandbox 3.4.1.1 (Solar Glaive 2Special Ammo)|tags:Controller PvE
 dimwishlist:item=1466006054&perks=2713678205,3721627275,1631667848,1546637391
+
+
+// Lunulata-4b
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Draw Time Season 17 (Stasis Combat Bow Primary Ammo) |tags:Controller PvE
+dimwishlist:item=2513965917&perks=852209214,3429800428,744594675,124408337
 
 
 // Main Ingredient
@@ -806,6 +919,16 @@ dimwishlist:item=1835747805&perks=1926090094,106909392,1820235745,1546637391
 // Negative Space
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Impact Sandbox 3.4.1.1 (Solar Swords 3Heavy Ammo)|tags:Controller PvE
 dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130
+
+
+// New Purpose
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Stasis Pulse Rifle Primary Ammo) |tags:Controller PvE
+dimwishlist:item=1780464822&perks=839105230,1087426260,2779035018,3047969693
+
+
+// Nezarec's Whisper
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Glaive  Special Ammo) |tags:Controller PvE
+dimwishlist:item=254636484&perks=594346985,3721627275,951095735,1546637391
 
 
 // Night Terror
@@ -1006,6 +1129,11 @@ dimwishlist:item=1402766122&perks=1300023272,106909392,2779035018,4082225868
 dimwishlist:item=108221785&perks=1300023272,106909392,3436462433,1546637391
 
 
+// Riptide
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Stasis Fusion Rifle  Special Ammo) |tags:Controller PvE
+dimwishlist:item=2715240478&perks=839105230,689005463,2779035018,1546637391
+
+
 // Royal Chase
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Void Scout Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=2776503072&perks=839105230,106909392,2869569095,2848615171
@@ -1146,6 +1274,11 @@ dimwishlist:item=2496875173&perks=1840239774,106909392,1820235745,4104185692
 dimwishlist:item=2588048270&perks=445755707,1968497646,2779035018,4104185692
 
 
+// Staccato-46
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Solar Scout Rifle  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=4019668921&perks=839105230,106909392,3400784728,4293542123
+
+
 // Stars in Shadow
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Solar Pulse Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=2050789284&perks=839105230,106909392,2779035018,1015611457
@@ -1159,6 +1292,16 @@ dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130
 // Stochastic Variable
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Arc Submachine Guns 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=2272470786&perks=1840239774,830282363,2779035018,2458213969
+
+
+// Stormchaser
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Linear Fusion Rifle Heavy Ammo) |tags:Controller PvE
+dimwishlist:item=3652506829&perks=839105230,1687452232,3300816228,1771339417
+
+
+// Strident Whistle
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Accuracy, Draw Time Season 17 (Solar Combat Bow Primary Ammo) |tags:Controller PvE
+dimwishlist:item=2591241074&perks=2801223209,3429800428,201365942,1546637391
 
 
 // Submission
@@ -1218,6 +1361,11 @@ dimwishlist:item=3335343363&perks=1840239774,2680121939,2869569095,2848615171
 dimwishlist:item=2721157927&perks=3525010810,3301904089,2869569095,2396489472
 
 
+// Tears of Contrition
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Kinetic Scout Rifle  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=1366394399&perks=839105230,106909392,3400784728,1546637391
+
+
 // Techeun Force
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Arc Fusion Rifles 2Special Ammo)|tags:Controller PvE
 dimwishlist:item=4094657108&perks=839105230,1687452232,1015611457,3425386926
@@ -1248,6 +1396,11 @@ dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,1546637391
 dimwishlist:item=2595497736&perks=2713678205,3721627275,951095735,4104185692
 
 
+// The Epicurean
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (VoidFusion Rifle  Special Ammo) |tags:Controller PvE
+dimwishlist:item=2263839058&perks=1840239774,1687452232,2779035018,4082225868
+
+
 // The Fool's Remedy
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Solar Sidearms 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=65611680&perks=445755707,1968497646,1820235745,1015611457
@@ -1261,6 +1414,11 @@ dimwishlist:item=1690783811&perks=13792278,106909392,1354429876,4082225868
 // The Guiding Sight
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Kinetic Scout Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=1641430382&perks=13792278,1968497646,247725512,1546637391
+
+
+// The Hero's Burden
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Void Submachine Gun  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=2488587246&perks=1840239774,1968497646,2779035018,1015611457
 
 
 // The Hothead
@@ -1368,6 +1526,11 @@ dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,1546637391
 dimwishlist:item=3836861464&perks=1840239774,106909392,3124871000,1546637391
 
 
+// The Title
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Void Submachine Guns Primary Ammo)|tags:Controller PvE
+dimwishlist:item=294129361&perks=839105230,1561002382,1583705720,4049631843
+
+
 // The Third Axiom
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Arc Pulse Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=4156253727&perks=839105230,1968497646,2779035018,3425386926
@@ -1381,6 +1544,11 @@ dimwishlist:item=3593598010&perks=13792278,1968497646,1820235745,3425386926
 // The Vision
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Arc Sidearms 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=2414141462&perks=445755707,106909392,2010801679,4049631843
+
+
+// The Wizened Rebuke
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Arc Fusion Rifle  Special Ammo) |tags:Controller PvE
+dimwishlist:item=1999697514&perks=839105230,689005463,1820235745,1546637391
 
 
 // Thermal Erosion
@@ -1474,6 +1642,11 @@ dimwishlist:item=2721249463&perks=2801223209,3429800428,201365942,3365897133
 dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,3365897133
 
 
+// Unforgiven
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Void Submachine Gun  Primary Ammo) |tags:Controller PvE
+dimwishlist:item=3000847393&perks=1840239774,1087426260,2779035018,4104185692
+
+
 // Uzume RR4
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Solar Sniper Rifles 2Special Ammo)|tags:Controller PvE
 dimwishlist:item=2065081837&perks=839105230,106909392,3400784728,1546637391
@@ -1528,6 +1701,11 @@ dimwishlist:item=1271343896&perks=839105230,106909392,2779035018,3523296417
 // Wishbringer
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Solar Shotguns 2Special Ammo)|tags:Controller PvE
 dimwishlist:item=3190698551&perks=1300023272,106909392,1631667848,3425386926
+
+
+// Without Remorse
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Solar Shotgun  Special Ammo) |tags:Controller PvE
+dimwishlist:item=1478986057&perks=1300023272,791862061,2869569095,2679249093
 
 
 // Wolftone Draw
