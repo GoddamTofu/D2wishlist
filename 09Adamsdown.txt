@@ -1,5 +1,5 @@
 title: Adamsdown-Boy Collection github.com/Adamsdown-Boy
-notes: Adamsdown-Boy Collection github.com/Adamsdown-Boy
+description: Adamsdown-Boy Collection github.com/Adamsdown-Boy
 
 // Start ep264-s-tier-smgs.txt
 // Shayura's Wrath (PvP first-choice roll)
