@@ -1272,6 +1272,11 @@ dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,354401740
 dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,354401740
 
 
+// Something New
+//notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability Season 17 (Stasis Hand Cannon Primary Ammo) |tags:Controller PvP
+dimwishlist:item=1856262127&perks=1840239774,1885400500,2779035018,438098033
+
+
 // Sorrow's Verse
 //notes: ( 06NoMWpvpBold.txt ): (Controller PvP) Recommended MW: Stability or Handling Sandbox 3.4.1.1 (Arc Auto Rifles 1Primary Ammo)|tags:Controller PvP
 dimwishlist:item=2496875173&perks=1840239774,3142289711,1890422124,2458213969
