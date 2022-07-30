@@ -1264,6 +1264,11 @@ dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2396489472
 dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2396489472
 
 
+// Something New
+//notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Season 17 (Stasis Hand Cannon Primary Ammo) |tags:Controller PvE
+dimwishlist:item=1856262127&perks=1840239774,3230963543,1583705720,124408337
+
+
 // Sorrow's Verse
 //notes: ( 05NoMWpveBold.txt ): (Controller PvE) Recommended MW: Reload Sandbox 3.4.1.1 (Arc Auto Rifles 1Primary Ammo)|tags:Controller PvE
 dimwishlist:item=2496875173&perks=1840239774,106909392,1820235745,4104185692
