@@ -1,70 +1,144 @@
 title:Adamsdown-Boy Collection github.com/Adamsdown-Boy
 description:Adamsdown-Boy Collection github.com/Adamsdown-Boy
 
+
+// Something New (PvE firstchoice roll)
+// Fluted Barrel, Flared Magwell, Ensemble, Headstone
+//notes:Inspired by DMB PvE Podcast 24. PvE firstchoice roll for end-game content. Use the barrel and mag to help out with the poor Handling, and Reload Speed. For end-game use, Ensemble helps both handling and reload when running in a fireteam, and Headstone works well with Stasis subclasses. Recommended MW: Reload Speed or Handling, with a Backup Mag mod. |tags: pve, pve-endgame, pve-god, pve-minor, controller, mkb
+dimwishlist:item=1856262127&perks=1840239774,3230963543,2621346526,124408337
+
+// Something New (PvE firstchoice roll)
+// Fluted Barrel, Flared Magwell, Ensemble, Harmony
+//notes:Inspired by DMB PvE Podcast 24. PvE firstchoice roll for end-game content. Use the barrel and mag to help out with the poor Handling, and Reload Speed. For end-game use, Ensemble helps both handling and reload when running in a fireteam, then get a kill with your special weapon and get a 20% damage boost and extra handling for 7 seconds. Recommended MW: Reload Speed or Handling, with a Backup Mag mod. Tags: pve, pve-endgame, pve-god, pve-minor, controller, mkb
+dimwishlist:item=1856262127&perks=1840239774,3230963543,2621346526,438098033
+
+// Something New (PvE backuproll)
+// Fluted Barrel, (Flared Magwell, Light Mag, Appended Mag), Ensemble, (Headstone, Harmony, Demolitionist)
+//notes:Inspired by DMB PvE Podcast 24. PvE backuproll for end-game content. Use the barrel and mag to help out with the poor Handling, and Reload Speed. For end-game use, Ensemble helps both handling and reload when running in a fireteam, then get look for a good utility perk in the second trait column. Recommended MW: Reload Speed or Handling, with a Backup Mag mod. |tags: pve, pve-endgame, pve-minor, controller, mkb
+dimwishlist:item=1856262127&perks=1840239774,679225683,2621346526,124408337
+dimwishlist:item=1856262127&perks=1840239774,1087426260,2621346526,124408337
+dimwishlist:item=1856262127&perks=1840239774,679225683,2621346526,438098033
+dimwishlist:item=1856262127&perks=1840239774,1087426260,2621346526,438098033
+dimwishlist:item=1856262127&perks=1840239774,3230963543,2621346526,3523296417
+dimwishlist:item=1856262127&perks=1840239774,679225683,2621346526,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1087426260,2621346526,3523296417
+
+// Something New (PvE backuproll)
+// Fluted Barrel, (Flared Magwell, Light Mag, Appended Mag), Feeding Frenzy, (Headstone, Harmony, Demolitionist)
+//notes:Inspired by DMB PvE Podcast 24. PvE backuproll for general content. Use the barrel and mag to help out with the poor Handling, and Reload Speed. For non end-game use, Feeding Frenzy boosts reload speed, then get look for a good utility perk in the second trait column. Recommended MW: Reload Speed or Handling, with a Backup Mag mod. |tags: pve, pve-minor, controller, mkb
+dimwishlist:item=1856262127&perks=1840239774,3230963543,2779035018,124408337
+dimwishlist:item=1856262127&perks=1840239774,679225683,2779035018,124408337
+dimwishlist:item=1856262127&perks=1840239774,1087426260,2779035018,124408337
+dimwishlist:item=1856262127&perks=1840239774,3230963543,2779035018,438098033
+dimwishlist:item=1856262127&perks=1840239774,679225683,2779035018,438098033
+dimwishlist:item=1856262127&perks=1840239774,1087426260,2779035018,438098033
+dimwishlist:item=1856262127&perks=1840239774,3230963543,2779035018,3523296417
+dimwishlist:item=1856262127&perks=1840239774,679225683,2779035018,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1087426260,2779035018,3523296417
+
+// Something New (PvE backuproll)
+// Fluted Barrel, (Flared Magwell, Light Mag, Appended Mag), Wellspring, (Demolitionist, Thresh)
+//notes:Inspired by DMB PvE Podcast 24. PvE backuproll for general content. Use the barrel and mag to help out with the poor Handling, and Reload Speed. In general use, you can maximise ability regeneration with Wellspring and either Demolitionist or Thresh. Recommended MW: Reload Speed or Handling, with a Backup Mag mod. |tags: pve, pve-minor, controller, mkb
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,679225683,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3592538738,2726471870
+dimwishlist:item=1856262127&perks=1840239774,679225683,3592538738,2726471870
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3592538738,2726471870
+
+// Compass Rose (PvE firstchoice roll)
+// (Smallbore, Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), Lead From Gold, Golden Tricorn
+//notes:Inspired by DMB PvE Podcast 24. PvE firstchoice roll for end-game content. Add To your base stats with the barrel, and Assault Mag or Tactical Mag are your best magazine choices. Lead from Gold saves a finder or scav mod and, with the range of solar melees and grenades available, Golden Tricorn can provide a solid 50% damage boost of 10 seconds when the second tier is procced. Recommended MW: Reload Speed or Handling, with a Backup Mag of damage (Major, Boss or Taken Spec) mod. |tags: pve, pve-god, pve-endgame, pve-major, controller, mkb
+dimwishlist:item=2591111628&perks=1482024992,791862061,1556840489,2610012052
+dimwishlist:item=2591111628&perks=4090651448,791862061,1556840489,2610012052
+dimwishlist:item=2591111628&perks=1300023272,791862061,1556840489,2610012052
+dimwishlist:item=2591111628&perks=1482024992,106909392,1556840489,2610012052
+dimwishlist:item=2591111628&perks=4090651448,106909392,1556840489,2610012052
+dimwishlist:item=2591111628&perks=1300023272,106909392,1556840489,2610012052
+
+// Compass Rose (PvE backuproll)
+// (Smallbore, Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), Lead From Gold, Trench Barrel
+//notes:Inspired by DMB PvE Podcast 24. PvE backuproll for end-game content. Add To your base stats with the barrel, and Assault Mag or Tactical Mag are your best magazine choices. Lead from Gold saves a finder or scav mod and, the old reliable Trench Barrel provides a 50% damage boost, handling and reload boost for a few seconds or three shots. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage (Major, Boss or Taken Spec) mod. |tags: pve, pve-endgame, pve-major, controller, mkb
+dimwishlist:item=2591111628&perks=1482024992,791862061,1556840489,2360754333
+dimwishlist:item=2591111628&perks=4090651448,791862061,1556840489,2360754333
+dimwishlist:item=2591111628&perks=1300023272,791862061,1556840489,2360754333
+dimwishlist:item=2591111628&perks=1482024992,106909392,1556840489,2360754333
+dimwishlist:item=2591111628&perks=4090651448,106909392,1556840489,2360754333
+dimwishlist:item=2591111628&perks=1300023272,106909392,1556840489,2360754333
+
+// Compass Rose (PvE firstchoice roll)
+// (Smallbore, Corkscrew Rifling, Barrel Shroud), (Assault Mag, Tactical Mag), Lead From Gold, Incandescent
+//notes:Inspired by DMB PvE Podcast 24. PvE firstchoice roll for end-game content. Add To your base stats with the barrel, and Assault Mag or Tactical Mag are your best magazine choices. Lead from Gold saves a finder or scav mod and Incandescent helps spread scorch stacks for Solar 3.0 builds for add clear. Recommended MW: Reload Speed or Handling, with a Backup Mag or damage (Minor, Major or Taken Spec) mod. |tags: pve, pve-god, pve-endgame, pve-minor, controller, mkb
+dimwishlist:item=2591111628&perks=1482024992,791862061,1556840489,4293542123
+dimwishlist:item=2591111628&perks=4090651448,791862061,1556840489,4293542123
+dimwishlist:item=2591111628&perks=1300023272,791862061,1556840489,4293542123
+dimwishlist:item=2591111628&perks=1482024992,106909392,1556840489,4293542123
+dimwishlist:item=2591111628&perks=4090651448,106909392,1556840489,4293542123
+dimwishlist:item=2591111628&perks=1300023272,106909392,1556840489,4293542123
 // Start ep266-glaives.txt
 // The Enigma (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Impulse Amplifier, Unstoppable Force
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-duel, controller, mkb
 dimwishlist:item=2595497736&perks=1263609309,3142289711,951095735,2224838837
 
 // The Enigma (PvP firstchoice roll)
 // Supercooled Accelerator, Accurized Rounds, Impulse Amplifier, Unstoppable Force
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Handling, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Handling, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-duel, controller, mkb
 dimwishlist:item=2595497736&perks=1934171651,3142289711,951095735,2224838837
 
 // Lubrae's Ruin (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Killing Wind, Surrounded
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill, and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. Masterwork: Range, with a Surrounded Spec mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill, and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. Masterwork: Range, with a Surrounded Spec mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-duel, controller, mkb
 dimwishlist:item=2534546147&perks=1263609309,3142289711,2450788523,3708227201
 
 // Lubrae's Ruin (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Killing Wind, Swashbuckler
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-chain, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-chain, controller, mkb
 dimwishlist:item=2534546147&perks=1263609309,3142289711,2450788523,4082225868
 
 // Lubrae's Ruin (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Sleight of Hand, Surrounded
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. . Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-chain, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. . Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-chain, pvp-duel, controller, mkb
 dimwishlist:item=2534546147&perks=1263609309,3142289711,2172504645,3708227201
 
 // Lubrae's Ruin (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Sleight of Hand, Swashbuckler
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-chain, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-chain, controller, mkb
 dimwishlist:item=2534546147&perks=1263609309,3142289711,2172504645,4082225868
 
 // Lubrae's Ruin (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Immovable Object, Unstoppable Force
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Immovable Object and Unstoppable Force work well together to generate shield energy and additional damage in combat, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Immovable Object and Unstoppable Force work well together to generate shield energy and additional damage in combat, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-duel, controller, mkb
 dimwishlist:item=2534546147&perks=1263609309,3142289711,3800201097,2224838837
 
 // Lubrae's Ruin (Adept) (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Killing Wind, Surrounded
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill, and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. Masterwork: Range, with a Surrounded Spec mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill, and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. Masterwork: Range, with a Surrounded Spec mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-duel, controller, mkb
 dimwishlist:item=1466006054&perks=1263609309,3142289711,2450788523,3708227201
 
 // Lubrae's Ruin (Adept) (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Killing Wind, Swashbuckler
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-chain, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Killing Wind provides a range of gunfeel boosts after a kill and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-chain, controller, mkb
 dimwishlist:item=1466006054&perks=1263609309,3142289711,2450788523,4082225868
 
 // Lubrae's Ruin (Adept) (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Sleight of Hand, Surrounded
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. . Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-chain, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling and chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Surrounded with the Spec mod provides a 40% CQC damage boost. Crafting with a Surrounded Enhanced and Spec mod gives a 47% CQC damage boost which means that, if you're radiant, you can 1-tap. . Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-chain, pvp-duel, controller, mkb
 dimwishlist:item=1466006054&perks=1263609309,3142289711,2172504645,3708227201
 
 // Lubrae's Ruin (Adept) (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Sleight of Hand, Swashbuckler
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-chain, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for chaining. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Sleight of Hand works for a blinting build and Swashbuckler, if you can get it procced with a melee kill, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-chain, controller, mkb
 dimwishlist:item=1466006054&perks=1263609309,3142289711,2172504645,4082225868
 
 // Lubrae's Ruin (Adept) (PvP firstchoice roll)
 // Ballistic Tuning, Accurized Rounds, Immovable Object, Unstoppable Force
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Immovable Object and Unstoppable Force work well together to generate shield energy and additional damage in combat, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80 with Haft, Mag and Masterwork to improve the bolt speed. There's no Impulse Amplifier in the trait pool but Immovable Object and Unstoppable Force work well together to generate shield energy and additional damage in combat, makes killing opponents in Restoration more reliable. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-duel, controller, mkb
 dimwishlist:item=1466006054&perks=1263609309,3142289711,3800201097,2224838837
 
 // Nezarec's Whisper (PvP firstchoice roll)
 // (Ballistic Tuning, Supercooled Accelerator), Accurized Rounds, Impulse Amplifier, Unstoppable Force
-//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80-85 with Haft. Mag and Masterwork, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |Tags:pvp, pvp-god, pvp-duel, controller, mkb
+//notes: ( 09Adamsdown.txt ): Inspired by DMB Podcast 266 conversation with @legoleflash. PvP firstchoice roll for duelling. Get the range up to 80-85 with Haft. Mag and Masterwork, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet. |tags:pvp, pvp-god, pvp-duel, controller, mkb
 dimwishlist:item=254636484&perks=1263609309,3142289711,951095735,2224838837
 dimwishlist:item=254636484&perks=1934171651,3142289711,951095735,2224838837
 // End ep266-glaives.txt
