@@ -1,4 +1,4 @@
-title:(08POG.txt) AyyItsChevy's Super Pog Wishist
+title:08POG.txt   AyyItsChevy's Super Pog Wishist
 description:Originally found at https://twitter.com/AyyItsChevy/
 
 // A Fine Memorial
