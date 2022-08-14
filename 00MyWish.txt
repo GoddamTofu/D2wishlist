@@ -1,4 +1,4 @@
-title:(00MyWish.txt) My wishlist and Stier list
+title:00MyWish.txt   My wishlist and Stier list
 description:My wishlist and Stier list
 
 // A Fine Memorial
