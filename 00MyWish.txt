@@ -597,10 +597,22 @@ dimwishlist:item=3856705927&perks=3250034553,1431678320,699525795,1012699414
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2450788523,1012699414
 dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,1012699414
 
+
 // Osteo Striga
 //notes: ( 00mywish.txt ) (PvE Controller) |tags:PvE
 dimwishlist:item=46524085&perks=1840239774,1087426260,4015745376,990298390
 
+
 // Osteo Striga
 //notes: ( 00mywish.txt ) (PvP Controller) |tags:PvP
 dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,1067908860
+
+
+// Tarnation
+//notes: ( 00mywish.txt ) (PvE Controller) |tags:PvE
+dimwishlist:item=2721157927&perks=3525010810,3301904089,2308090567,598607952,758092021
+
+
+// Tarnation
+//notes: ( 00mywish.txt ) (PvP Controller) |tags:PvP
+dimwishlist:item=2721157927&perks=1478423395,409831596,4207509907,598607952,3803457565
