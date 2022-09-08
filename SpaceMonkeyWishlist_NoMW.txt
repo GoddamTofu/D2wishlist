@@ -1,6 +1,6 @@
-//notes:SpaceMonkey’s Weapon Guide (Controller PvP): 
-//notes:SpaceMonkey’s Weapon Guide (Controller PvE): 
-//notes:SpaceMonkey’s Weapon Guide (Controller PvE-Endgame): 
+title:SpaceMonkey’s Weapon Guide, Season 18
+
+description:Originally found at https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit#
 
 // Allied Demand
 //notes:SpaceMonkey’s Weapon Guide (Controller PvE): Recommended MW: Stability “Not great for PvE, but can get serviceable rolls. “ (Kinetic Sidearm Primary Ammo)|tags:PvE
