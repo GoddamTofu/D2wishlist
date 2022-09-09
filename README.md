@@ -1,8 +1,17 @@
 # D2wishlist
-Controller's wishlist for DIM
+Wishlist Collections for DIM
 
-God Rolls Collections: Click on DIM Settings and navigate to Wishlist section.
+Welcome
 
-Where it is said "Optionally, supply the URL(s) for a wish list (pipe | separated)", Copy and paste the file(s) link/s there.
+Click on a Wishlist
 
-To load more than one link use (pipe | separated).
+Click on Raw
+
+Copy the link
+
+Click on DIM Settings (The Cog on top right corner) and navigate to Wishlist section.
+
+Where it is said "Optionally, supply the URL(s) for a wish list (pipe | separated)", Copy and paste the link(s) there.
+
+To load more than one link use (pipe | separated) eg: FirstUrl.txt | SecondUrl.txt.
+
