@@ -1,3 +1,6 @@
+title:u/pandapaxxy's 
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/x8jqis/season_of_the_plunder_breakdown/
+
 // Allied Demand
 //notes:pandapaxxy (PvE Controller \ MnK): Recommended MW: Reload “Allied Demand is a great weapon to see come back. I love the 300 rpm adaptive frame sidearms. Something about them just feels best. Not quite the bullet hoses of the 450s, a little less fatiguing on the finger than the 360s, and feel better than the 260s for me. In PvE I really would not take a sidearm into any serious activities. They just do not have the damage or the range you would want to make them feel as effective. To make this sidearm feel as good as possible I would recommend bumping up the handling and stability. Sure you will not be able to shoot as far, but you are using a sidearm. Be real here. Frenzy is great for getting that quick damage and reload. With such a small mag another great shout is multikill clip to keep damage stacks after each kill. “ (Kinetic Sidearm Primary Ammo)|tags:PvE
 dimwishlist:item=1532276803&perks=1840239774,3230963543,247725512,4104185692,4283235143
@@ -18286,7 +18289,7 @@ dimwishlist:item=2307365&perks=4090651448,1087426260,1354429876,11612903,4283235
 dimwishlist:item=2307365&perks=4090651448,1087426260,1354429876,11612903,758092021
 
 
-// The Militia's Birthright
+// The Militia's Birthright (Adept)
 //notes:pandapaxxy (PvE Controller \ MnK): Recommended MW: Reload “I am so very glad Militia's Birthright is back. Mostly for my friend u/The_SpellJammer. Militia's Birthright has not really seen too many changes from its former self. Ambitious and auto-loading are funny together, but unfortunately do not proc one another. Lead from gold is another fantastic perk when paired with a full lead from gold build. Frenzy is the top choice for the final column. Having two grenades with the 15% damage increase, 50 handling, and the most important part being the 50 reload. The reload alone will max out your reload stat making it easier to reload into ambitious assassin. “ (Kinetic Grenade Launcher Special Ammo)|tags:PvE
 dimwishlist:item=2378101424&perks=3525010810,3032599245,2010801679,4104185692,4283235143
 dimwishlist:item=2378101424&perks=3525010810,3032599245,2010801679,4104185692,4283235140
@@ -31310,7 +31313,7 @@ dimwishlist:item=2307365&perks=1482024992,791862061,509074078,11612903,518224739
 dimwishlist:item=2307365&perks=1482024992,791862061,509074078,11612903,186337601
 
 
-// The Militia's Birthright
+// The Militia's Birthright (Adept)
 //notes:pandapaxxy (PvP Controller): Recommended MW: Handling “In PvP there are better options. Truthteller outclasses Militia's Birthright and Salvager's Salvo feels like you are shooting rockets. Militia's can work, but it will have a large uphill battle. “ (Kinetic Grenade Launcher Special Ammo)|tags:PvP
 dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,3300816228,518224747
 dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,3300816228,518224744
@@ -43794,7 +43797,7 @@ dimwishlist:item=2307365&perks=1482024992,791862061,509074078,11612903,518224739
 dimwishlist:item=2307365&perks=1482024992,791862061,509074078,11612903,186337601
 
 
-// The Militia's Birthright
+// The Militia's Birthright (Adept)
 //notes:pandapaxxy (MnK PvP) Recommended MW: Handling “In PvP there are better options. Truthteller outclasses Militia's Birthright and Salvager's Salvo feels like you are shooting rockets. Militia's can work, but it will have a large uphill battle. “ (Kinetic Grenade Launcher Special Ammo)|tags:PvP
 dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,3300816228,518224747
 dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,3300816228,518224744
