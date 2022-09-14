@@ -1828,7 +1828,7 @@ dimwishlist:item=2307365&perks=1482024992,1087426260,1354429876,11612903
 dimwishlist:item=2307365&perks=4090651448,1087426260,1354429876,11612903
 
 
-// The Militia's Birthright
+// The Militia's Birthright (Adept)
 //notes:pandapaxxy (PvE Controller \ MnK): Recommended MW: Reload “I am so very glad Militia's Birthright is back. Mostly for my friend u/The_SpellJammer. Militia's Birthright has not really seen too many changes from its former self. Ambitious and auto-loading are funny together, but unfortunately do not proc one another. Lead from gold is another fantastic perk when paired with a full lead from gold build. Frenzy is the top choice for the final column. Having two grenades with the 15% damage increase, 50 handling, and the most important part being the 50 reload. The reload alone will max out your reload stat making it easier to reload into ambitious assassin. “ (Kinetic Grenade Launcher Special Ammo)|tags:PvE
 dimwishlist:item=2378101424&perks=3525010810,3032599245,2010801679,4104185692
 dimwishlist:item=2378101424&perks=3798852852,3032599245,2010801679,4104185692
@@ -3152,7 +3152,7 @@ dimwishlist:item=2307365&perks=1840239774,791862061,509074078,11612903
 dimwishlist:item=2307365&perks=1482024992,791862061,509074078,11612903
 
 
-// The Militia's Birthright
+// The Militia's Birthright (Adept)
 //notes:pandapaxxy (PvP Controller): Recommended MW: Handling “In PvP there are better options. Truthteller outclasses Militia's Birthright and Salvager's Salvo feels like you are shooting rockets. Militia's can work, but it will have a large uphill battle. “ (Kinetic Grenade Launcher Special Ammo)|tags:PvP
 dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,3300816228
 dimwishlist:item=2378101424&perks=3809316345,3301904089,706527188,3300816228
@@ -4434,7 +4434,7 @@ dimwishlist:item=2307365&perks=1840239774,791862061,509074078,11612903
 dimwishlist:item=2307365&perks=1482024992,791862061,509074078,11612903
 
 
-// The Militia's Birthright
+// The Militia's Birthright (Adept)
 //notes:pandapaxxy (MnK PvP) Recommended MW: Handling “In PvP there are better options. Truthteller outclasses Militia's Birthright and Salvager's Salvo feels like you are shooting rockets. Militia's can work, but it will have a large uphill battle. “ (Kinetic Grenade Launcher Special Ammo)|tags:PvP
 dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,3300816228
 dimwishlist:item=2378101424&perks=3809316345,3301904089,706527188,3300816228
