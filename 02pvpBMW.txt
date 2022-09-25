@@ -4650,6 +4650,7 @@ dimwishlist:item=3248429089&perks=839105230,2420895100,280464955,3824105627,3841
 
 // Ragnhild-D
 //notes: ( 02pvpBMW.txt ): (Controller PvP) Recommended MW: Range. "For the non-crucible members, our boy Reginald will feel good as either a major clearer or champ destroyer. One-two punch and frenzy are both incredible options that don't need a lot to feel strong. Demolitionist can help with those grenades. Where assault mag isn't as strong in PvP it can really help in PvE where the RPM bump can keep majors or champs staggered for just long enough to hit them with a finisher or keep up damage.". (Year 5 S16: Season of the Risen Kinetic Shotgun Special Ammo)|tags:Controller PvP
+dimwishlist:item=4225322581&perks=1047830412,3142289711,2014892510,711234314
 dimwishlist:item=4225322581&perks=1047830412,3142289711,1428297954,3511092054,150943607
 dimwishlist:item=4225322581&perks=1047830412,3142289711,1428297954,3511092054,150943604
 dimwishlist:item=4225322581&perks=1047830412,3142289711,1428297954,3511092054,150943605
@@ -4750,6 +4751,7 @@ dimwishlist:item=1572896086&perks=839105230,3142289711,280464955,1890422124,3841
 
 // Red Herring
 //notes: ( 02pvpBMW.txt ): (Controller PvP) Recommended MW: Blast Radius. "For PvP you're almost better off using an inherent tracking rocket launcher because then you don't have to slot a perk in for it. But then again exotic rockets are just even better at killing le dude(tm).". (Year 5 S16: Season of the Risen Void Rocket Launcher Heavy Ammo)|tags:Controller PvP
+dimwishlist:item=3175851496&perks=1478423395,1996142143,406461158,2422968039
 dimwishlist:item=3175851496&perks=332773068,1996142143,3977735242,11612903,3928770367
 dimwishlist:item=3175851496&perks=332773068,1996142143,3977735242,11612903,3928770364
 dimwishlist:item=3175851496&perks=332773068,1996142143,3977735242,11612903,3928770365
@@ -5846,6 +5848,7 @@ dimwishlist:item=1972985595&perks=1478423395,409831596,3300816228,3425386926,380
 
 // Sweet Sorrow
 //notes: ( 02pvpBMW.txt ): (Controller PvP) Recommended MW: Stability. "This is a fun situation where PvE and PvP mix. Arrowhead brake is still the best barrel, and I would recommend a counterbalance mod to get that recoil to 100 and give you the ease of use to invest into range or more consistency perks. The “big” damage perks on Sweet Sorrow don't lend themselves to the PvP landscape, but one could argue demolitionist is a lethality perk, especially with current Void 3.0 grenades. Truthfully I'd try and make this weapon as consistent as physically possible and spec fully into stability. Autos are not in the best place, especially with their requirement of time-on-target for optimal TtK. Anything to make it easier will pay off.". (Year 5 S16: Season of the Risen Arc Auto Rifle Primary Ammo)|tags:Controller PvP
+dimwishlist:item=1248372789&perks=839105230,3142289711,4207509907,1523649716
 dimwishlist:item=1248372789&perks=839105230,3142289711,2450788523,1890422124,1590375901
 dimwishlist:item=1248372789&perks=839105230,3142289711,2450788523,1890422124,1590375902
 dimwishlist:item=1248372789&perks=839105230,3142289711,2450788523,1890422124,1590375903
@@ -5860,6 +5863,7 @@ dimwishlist:item=1248372789&perks=839105230,3142289711,2450788523,1890422124,384
 
 // Syncopation-53
 //notes: ( 02pvpBMW.txt ): (Controller PvP) Recommended MW: Stability. "If one pulse screamed consistency this pulse would do it. PvP falls into one of two categories. Consistency or lethality. Syncopation doesn't have anything to push it into the 2 burst realm outside of person buffs (empowering rift, inertia override, etc) but it does have utter consistency. Arrowhead cleans up the recoil perfectly, while high-caliber rounds makes it harder to get hit in return. Then the choice between moving target, the newly buffed hip-fire grip in combination with headseeker or rangefinder. It all depends on where you value your weapon to be.". (Year 5 S16: Season of the Risen Stasis Pulse Rifle Primary Ammo)|tags:Controller PvP
+dimwishlist:item=2856514843&perks=839105230,1561002382,2717805783,509594246
 dimwishlist:item=2856514843&perks=839105230,1561002382,588594999,2846385770,1590375901
 dimwishlist:item=2856514843&perks=839105230,1561002382,588594999,2846385770,1590375902
 dimwishlist:item=2856514843&perks=839105230,1561002382,588594999,2846385770,1590375903
