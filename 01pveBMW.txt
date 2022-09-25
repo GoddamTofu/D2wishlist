@@ -704,6 +704,7 @@ dimwishlist:item=2708806099&perks=839105230,3230963543,3124871000,1015611457,758
 
 // CALUS Mini-Tool
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "So, truthfully I was not really impressed with CALUS Mini-Tool on first glance. After running Duality with one, I can confidently say I was wrong. Solar 3.0 paired with the CALUS Mini-Tool is a dream. It's not the most ideal choice without its pairing, but it still puts in some exceptional work. With Solar 3.0's healing wells, and unrelenting, you might never die. Incandescent is an incredible perk to keep synergy with Solar 3.0, definitely a roll to keep an eye out for.". (Year 5 S17: Season of the Haunted Solar Submachine Gun Primary Ammo)|tags:Controller PvE
+dimwishlist:item=2490988246&perks=1840239774,106909392,855168139,2675184851
 dimwishlist:item=2490988246&perks=1840239774,106909392,3108830275,2779035018,4283235143
 dimwishlist:item=2490988246&perks=1840239774,106909392,3108830275,2779035018,4283235140
 dimwishlist:item=2490988246&perks=1840239774,106909392,3108830275,2779035018,4283235141
@@ -916,6 +917,7 @@ dimwishlist:item=1506719573&perks=1840239774,106909392,1820235745,3425386926,758
 
 // Come To Pass
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "Like Herod-C this archetype is middling but not terrible. The one thing that Come to Pass does that is better than Herod-C is handle shielded enemies with ease. Herod-C can clear rooms with headstone, Come to Pass deals with champs and shields better than most other autos in its archetype. Adaptive munitions is very strong and triple tap once the shield is gone can artificially extend your mag to make it even easier to kill those higher health bar enemies.". (Year 5 S16: Season of the Risen Arc Auto Rifle Primary Ammo)|tags:Controller PvE
+dimwishlist:item=927567426&perks=1840239774,106909392,573122728,3431277734
 dimwishlist:item=927567426&perks=1840239774,106909392,3400784728,1048183818,4283235143
 dimwishlist:item=927567426&perks=1840239774,106909392,3400784728,1048183818,4283235140
 dimwishlist:item=927567426&perks=1840239774,106909392,3400784728,1048183818,4283235141
@@ -1397,6 +1399,7 @@ dimwishlist:item=2362471600&perks=1482024992,3142289711,3425386926,588594999,384
 
 // Drang (Baroque)
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "Drang (Baroque) is hot right now. It's always been one of the better sidearms at base, and having a randomly rolled version is welcome. Well-rounded paired with your choice of rampage, or incandescent is probably going to be your best bet. Swashbuckler and wellspring together is also another good combination.". (Year 5 S17: Season of the Haunted Solar Sidearm Primary Ammo)|tags:Controller PvE
+dimwishlist:item=502356570&perks=1840239774,106909392,2139363611,2675184851
 dimwishlist:item=502356570&perks=1840239774,106909392,744594675,3425386926,4283235143
 dimwishlist:item=502356570&perks=1840239774,106909392,744594675,3425386926,4283235140
 dimwishlist:item=502356570&perks=1840239774,106909392,744594675,3425386926,4283235141
@@ -1593,6 +1596,7 @@ dimwishlist:item=276080079&perks=839105230,689005463,3161816588,1546637391,75809
 
 // Explosive Personality
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "Explosive Personality is an interesting weapon. No lead from gold to pair with double special weapons builds like Deafening Whisper. And no adept mods like Forbearance will get. Being solar alone will get it a lot of use and having the ability to get auto-loading holster will give it the ease of use neither of the other wave frame launchers can get. I think Explosive Personality will be the base that other wave frame launchers will be compared to, not because of how good it can be, but mostly because of how easy it will be to use. A horde of thrall coming towards you? Pop your wave grenade and get healing or better damage. The wombo combo of stats for all and one for all for maximum grenade-dage (new word, copyright pending) you could ever want.". (Year 5 S16: Season of the Risen Solar Grenade Launcher (Breach) Special Ammo)|tags:Controller PvE
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,859780267
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4049631843,4283235143
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4049631843,4283235140
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4049631843,4283235141
@@ -1761,6 +1765,7 @@ dimwishlist:item=3865728990&perks=1840239774,106909392,3400784728,2896038713,758
 
 // Fel Taradiddle
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Draw Time. "Whispering Slab has some decent competition. So if you are new or didn't get a chance to grab your god roll from almost two years ago (Season of Arrivals was that long ago? Holy crap). Now is your chance. You can easily hit the draw time floor of 540 with a couple different combinations and archer's tempo does drop that even further. Pair that draw time with damage perks like adrenaline junkie or one for all. Or you can go the “double stagger” route with explosive head when overload bows come back as an artifact mod (there are few things more satisfying than infinite staggering a champion).". (Year 5 S16: Season of the Risen Kinetic Combat Bow Primary Ammo)|tags:Controller PvE
+dimwishlist:item=1399109800&perks=2801223209,3429800428,3523746922,1551736345
 dimwishlist:item=1399109800&perks=2801223209,3429800428,201365942,3365897133,2203506848
 dimwishlist:item=1399109800&perks=2801223209,3429800428,201365942,3365897133,2203506851
 dimwishlist:item=1399109800&perks=2801223209,3429800428,201365942,3365897133,2203506850
@@ -1873,6 +1878,7 @@ dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,2396489472,75
 
 // Forensic Nightmare
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "Precision frame submachine guns are in a weird spot. Having higher damage but lower stats across the boards combined with a pitiful reload creates an awful feeling weapon. You can counter this with perpetual motion to boost some of the stats or grave robber to straight up bypass the reload, but you still have an uphill battle to fight with the gun versus using Funnelweb or similar that need a lot less to feel good.". (Year 5 S16: Season of the Risen Stasis Submachine Gun Primary Ammo)|tags:Controller PvE
+dimwishlist:item=1526296434&perks=1840239774,1087426260,2014892510,2923251173
 dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,1015611457,4283235143
 dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,1015611457,4283235140
 dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,1015611457,4283235141
@@ -2655,6 +2661,7 @@ dimwishlist:item=3409645497&perks=839105230,106909392,2779035018,4104185692,7580
 
 // Likely Suspect
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "Likely Suspect is like off-brand Snorri-FR5. It doesn't have the room clearing perks like Snorri-FR5, nor does it have the boss killing power of Cartesian Coordinate. It is a fine neutral option while you farm out world drops to get Snorri-FR5.". (Year 5 S16: Season of the Risen Void Fusion Rifle Special Ammo)|tags:Controller PvE
+dimwishlist:item=1994645182&perks=839105230,689005463,2014892510,859780267
 dimwishlist:item=1994645182&perks=839105230,689005463,1428297954,4049631843,4283235143
 dimwishlist:item=1994645182&perks=839105230,689005463,1428297954,4049631843,4283235140
 dimwishlist:item=1994645182&perks=839105230,689005463,1428297954,4049631843,4283235141
@@ -3161,6 +3168,8 @@ dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,2010801679,75
 
 // Palmyra-B
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "Palmyra-B is a fun little rocket launcher. The inherent tracking feels nice and being able to do some big damage while not having to think as much was a real game changer in my group's first attempt at Vow of the Disciple. The fire and forget nature of tracking launchers allows you to focus on literally anything else. Just be mindful of the lasting impressions delay. That has gotten me killed more than once.". (Year 5 S16: Season of the Risen Stasis Rocket Launcher Heavy Ammo)|tags:Controller PvE
+dimwishlist:item=3489657138&perks=3525010810,3796465595,3878366039,1167468626
+dimwishlist:item=3489657138&perks=1478423395,2985827016,3878366039,344235611
 dimwishlist:item=3489657138&perks=3525010810,3796465595,951095735,3927722942,4283235143
 dimwishlist:item=3489657138&perks=3525010810,3796465595,951095735,3927722942,4283235140
 dimwishlist:item=3489657138&perks=3525010810,3796465595,951095735,3927722942,4283235141
@@ -3325,6 +3334,7 @@ dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391,163
 
 // Pointed Inquiry
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "Pointed Inquiry is a little underwhelming. All 150 scouts are not the best stat wise but Pointed Inquiry has lower base stats than Perses-D. Where it makes up for that is in its utility with max extending perks and adaptive munitions. This allows Pointed Inquiry to have a solid foothold in higher level activities with match game. Where it does fall off is just the fact that it's a 150 scout. Historically the community is driven to 180 and 200 RPM scouts. 150s do have their merit and can put in work in grandmaster nightfalls, but in general day-to-day the faster firing archetypes just do the job better.". (Year 5 S16: Season of the Risen Void Scout Rifle Primary Ammo)|tags:Controller PvE
+dimwishlist:item=297296830&perks=1840239774,1087426260,848860060,3431277734
 dimwishlist:item=297296830&perks=1840239774,1087426260,1354429876,1048183818,4283235143
 dimwishlist:item=297296830&perks=1840239774,1087426260,1354429876,1048183818,4283235140
 dimwishlist:item=297296830&perks=1840239774,1087426260,1354429876,1048183818,4283235141
@@ -3555,6 +3565,7 @@ dimwishlist:item=3385326721&perks=1840239774,1968497646,3124871000,1015611457,75
 
 // Recurrent Impact
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Handling. "Do I really wish this was a 450 and not 900? Yes, absolutely. But we cannot change the guns that are given to us. So instead we bump up the recoil direction, grab some buddies, hope we don't run out of mouse pad, and pull down like we've never seen our screen. Seriously though. Having a huge magazine and access to firing line gives some wonderful damage but you really have to crank straight down on your input method of choice to hit constant crits. Without arrowhead brake you best hope you see yellow because a recoil direction of 53 is pitifully low. You could also opt for a room clearing weapon through subsistence and headstone, but I would just rather have Eyasluna for that. Even Syncopation-55 is better than this bullet hose.". (Year 5 S16: Season of the Risen Stasis Machine Gun Heavy Ammo)|tags:Controller PvE
+dimwishlist:item=1572896086&perks=839105230,106909392,4245865861,395388285
 dimwishlist:item=1572896086&perks=839105230,106909392,1820235745,1771339417,518224747
 dimwishlist:item=1572896086&perks=839105230,106909392,1820235745,1771339417,518224744
 dimwishlist:item=1572896086&perks=839105230,106909392,1820235745,1771339417,518224745
@@ -4548,6 +4559,7 @@ dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,1546637391,7580
 
 // The Enigma
 //notes: ( 01pveBMW.txt ): (Controller PvE) Recommended MW: Reload. "Man Enigma is…an enigma. I will be the first to say, glaives were not what I expected and I am not impressed with their current state. They are new and there's still a lot that can be done to better them, but combat bows were better out of the gate. That's all I'll say to dig into glaives. Onto Enigma. Reloading glaives feels awful even without extended mag. Impulse amplifier does help a lot, but also making sure your barrels don't hurt reload will just make the whole process easier.". (Year 5 S16: Season of the Risen Void Glaive Special Ammo)|tags:Controller PvE
+dimwishlist:item=2595497736&perks=2713678205,3721627275,3878366039,3007133316
 dimwishlist:item=2595497736&perks=2713678205,3721627275,951095735,4104185692,4283235143
 dimwishlist:item=2595497736&perks=2713678205,3721627275,951095735,4104185692,4283235140
 dimwishlist:item=2595497736&perks=2713678205,3721627275,951095735,4104185692,4283235141
