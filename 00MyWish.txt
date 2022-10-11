@@ -2,7 +2,7 @@ title:00MyWish.txt   My wishlist and Stier list
 description:My wishlist and Stier list
 
 // True Prophecy
-//notes: ( 00mywish.txt ) |tags:PvE,PvP
+//notes: ( 00mywish.txt ) (Controller / PvE): "True Prophecy is a great gun, nothing amazing about it, but definitely great for PvE. Overflow on a hand cannon has always been great, and this archetype needs it." Recommended MW:Reload or Handling.|tags:PvE,PvP
 dimwishlist:item=2742838700&perks=1926090094,3142289711,3643424744,1954620775
 
 
