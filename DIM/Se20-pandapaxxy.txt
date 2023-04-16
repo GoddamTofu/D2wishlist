@@ -1,3 +1,6 @@
+title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/12kyvei/lightfall_seasonal_breakdown/
+
 // Acasia's Dejection
 //notes:pandapaxxy (PvP / M+KB / Controller): Recommended MW: Reload. Adaptive(1000) Kinetic Sidearm Primary Ammo.  "Acacia's Dejection is a super fun trace rifle with Reconstruction and Target Lock. Paracausal Affinity is great for instant 20 percent damage. Depending on what you’d like to use this trace rifle for you can either blitz majors and champs with it or clear out rooms of enemies with incredible damage. I would definitely farm for this trace rifle." |tags:pve,mkb,controller
 dimwishlist:item=1471212226&perks=1840239774,2680121939,424370782,365154968
