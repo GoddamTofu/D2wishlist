@@ -2675,7 +2675,7 @@ dimwishlist:item=2231910050&perks=1441682018,2985827016,951095735,2396489472
 
 
 // Round Robin
-//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Reload. Aggressive(120) Strand Hand Cannon Primary Ammo.  "What a happy little surprise to bless my smol paws. I don’t have to grind Moon bounties to get a Kill Clip 120? And it’s craftable for all those bonuses and longer Kill Clip? I love it! Keep Away is an incredible perk on 120s as they unusually duel on the end of hand cannon ranges. Killing Wind is also great paired with Kill Clip. You could also opt for Opening Shot for maximum range on that first shot or as a clean up from a long range sniper body shot." |tags:pve,mkb,controller
+//notes:pandapaxxy (PvE / M+KB / Controller): Recommended MW: Reload. Aggressive(120) Strand Hand Cannon Primary Ammo.  "In PvE Subsistence with Golden Tricorn will be your bread and butter for never ending shooting and a huge damage buff. This works with a build that ability loops by itself like Heart of Inmost Light. If you can keep up Golden Tricorn 2x constantly you will have an incredibly high damage hand cannon. Envious Assassin is an interesting perk as you’ll need to swap off your primary to get kills to overflow your magazine to swap back to your primary. If you are running double primary weapons in higher end content or just like to switch up weapons for clearing rooms you will love this perk. However, I just find it odd to need to swap off your primary to overflow your primary." |tags:pve,mkb,controller
 dimwishlist:item=2034215657&perks=1840239774,1087426260,1820235745,2610012052
 dimwishlist:item=2034215657&perks=1482024992,1087426260,1820235745,2610012052
 dimwishlist:item=2034215657&perks=1840239774,3230963543,1820235745,2610012052
@@ -5087,7 +5087,7 @@ dimwishlist:item=2231910050&perks=1441682018,2822142346,3977735242,1275731761
 
 
 // Round Robin
-//notes:pandapaxxy (PvP / Controller): Recommended MW: Stability. Aggressive(120) Strand Hand Cannon Primary Ammo.  "In PvE Subsistence with Golden Tricorn will be your bread and butter for never ending shooting and a huge damage buff. This works with a build that ability loops by itself like Heart of Inmost Light. If you can keep up Golden Tricorn 2x constantly you will have an incredibly high damage hand cannon. Envious Assassin is an interesting perk as you’ll need to swap off your primary to get kills to overflow your magazine to swap back to your primary. If you are running double primary weapons in higher end content or just like to switch up weapons for clearing rooms you will love this perk. However, I just find it odd to need to swap off your primary to overflow your primary." |tags:pvp,controller
+//notes:pandapaxxy (PvP / Controller): Recommended MW: Stability. Aggressive(120) Strand Hand Cannon Primary Ammo.  "What a happy little surprise to bless my smol paws. I don’t have to grind Moon bounties to get a Kill Clip 120? And it’s craftable for all those bonuses and longer Kill Clip? I love it! Keep Away is an incredible perk on 120s as they unusually duel on the end of hand cannon ranges. Killing Wind is also great paired with Kill Clip. You could also opt for Opening Shot for maximum range on that first shot or as a clean up from a long range sniper body shot." |tags:pvp,controller
 dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,1015611457
 dimwishlist:item=2034215657&perks=1482024992,1885400500,3619207468,1015611457
 dimwishlist:item=2034215657&perks=4090651448,1885400500,3619207468,1015611457
@@ -6874,7 +6874,7 @@ dimwishlist:item=2231910050&perks=1441682018,2822142346,3977735242,1275731761
 
 
 // Round Robin
-//notes:pandapaxxy (PvP / M+KB): Recommended MW: Stability. Aggressive(120) Strand Hand Cannon Primary Ammo.  "In PvE Subsistence with Golden Tricorn will be your bread and butter for never ending shooting and a huge damage buff. This works with a build that ability loops by itself like Heart of Inmost Light. If you can keep up Golden Tricorn 2x constantly you will have an incredibly high damage hand cannon. Envious Assassin is an interesting perk as you’ll need to swap off your primary to get kills to overflow your magazine to swap back to your primary. If you are running double primary weapons in higher end content or just like to switch up weapons for clearing rooms you will love this perk. However, I just find it odd to need to swap off your primary to overflow your primary." |tags:pvp,mkb
+//notes:pandapaxxy (PvP / M+KB): Recommended MW: Stability. Aggressive(120) Strand Hand Cannon Primary Ammo.  "What a happy little surprise to bless my smol paws. I don’t have to grind Moon bounties to get a Kill Clip 120? And it’s craftable for all those bonuses and longer Kill Clip? I love it! Keep Away is an incredible perk on 120s as they unusually duel on the end of hand cannon ranges. Killing Wind is also great paired with Kill Clip. You could also opt for Opening Shot for maximum range on that first shot or as a clean up from a long range sniper body shot." |tags:pvp,mkb
 dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,1015611457
 dimwishlist:item=2034215657&perks=1482024992,1885400500,3619207468,1015611457
 dimwishlist:item=2034215657&perks=1840239774,1561002382,3619207468,1015611457
